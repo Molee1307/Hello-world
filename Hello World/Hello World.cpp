@@ -37,7 +37,7 @@ int main()
 			std::cout << "Okay, then Bye-Bye..." << std::endl;
 	}
 
-
+       system("PAUSE");
 	return 0;
 }
 
